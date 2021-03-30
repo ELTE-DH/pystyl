@@ -35,5 +35,6 @@ setup(
         'pandas==1.2.3',
         'bokeh==2.3.0',
         'dendropy',
+        'PyQt5'
     ],
 )
